@@ -58,7 +58,7 @@ output:
 
 <p class=footertext2>
 
-**Tor Wager** is a Professor of Psychology and Neuroscience and a faculty member in the Institute for Cognitive Science at the University of Colorado, Boulder. He received his Ph.D. from the University of Michigan in cognitive psychology in 2003, and served as an Assistant and Associate Professor at Columbia University from 2004-2009. Since 2010, he has directed Boulder’s Cognitive and Affective Neuroscience laboratory. He has a deep interest in how thinking influences affective experiences, affective learning, and brain-body communication. His laboratory also focuses on the development and deployment of analytic methods, and has developed several publically available software toolboxes for fMRI analysis.
+**Tor Wager** is a Professor of Psychology and Neuroscience and a faculty member in the Institute for Cognitive Science at the University of Colorado, Boulder. He received his Ph.D. from the University of Michigan in cognitive psychology in 2003, and served as an Assistant and Associate Professor at Columbia University from 2004-2009. Since 2010, he has directed Boulder’s Cognitive and Affective Neuroscience laboratory. He has a deep interest in how thinking influences affective experiences, affective learning, and brain-body communication. His laboratory also focuses on the development and deployment of analytic methods, and has developed several publicly available software toolboxes for fMRI analysis.
 </p>
 
 <br>
